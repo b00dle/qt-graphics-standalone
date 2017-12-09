@@ -1,0 +1,48 @@
+{
+    "scene": {
+        "scene_rect": {
+            "height": 920,
+            "width": 1593,
+            "x": 0,
+            "y": 0
+        },
+        "tiles": [
+            {
+                "data": {
+                    "name": "THREE",
+                    "position": [
+                        407,
+                        495
+                    ],
+                    "size": 1,
+                    "uuid": "{b33b942a-bcc9-469c-8059-66861c9f579e}"
+                },
+                "type": "Tile::BaseTile"
+            },
+            {
+                "data": {
+                    "name": "ONE",
+                    "position": [
+                        261,
+                        153
+                    ],
+                    "size": 1,
+                    "uuid": "{91160d2d-d221-4a0d-b1d3-045f8ddde5a7}"
+                },
+                "type": "Tile::BaseTile"
+            },
+            {
+                "data": {
+                    "name": "TWO",
+                    "position": [
+                        633,
+                        306
+                    ],
+                    "size": 1,
+                    "uuid": "{f66ac233-9198-43ba-b8a3-69bd888ac312}"
+                },
+                "type": "Tile::BaseTile"
+            }
+        ]
+    }
+}
